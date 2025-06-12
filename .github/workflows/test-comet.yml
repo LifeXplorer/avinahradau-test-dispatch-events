@@ -1,4 +1,4 @@
-name: Test Repository Dispatch
+name: Test Repository Dispatch By Comet events
 
 on:
   repository_dispatch:
